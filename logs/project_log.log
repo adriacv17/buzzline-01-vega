@@ -1,0 +1,21 @@
+2025-01-17 15:56:47.627 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 15:56:47.629 | INFO     | __main__:main:106 - START producer...
+2025-01-17 15:56:47.629 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-17 15:56:47.630 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 15:56:47.630 | INFO     | __main__:main:114 - I just tried a story! It was boring.
+2025-01-17 15:56:50.632 | INFO     | __main__:main:114 - I just loved an app! It was funny.
+2025-01-17 15:56:53.633 | INFO     | __main__:main:114 - I just found a meme! It was boring.
+2025-01-17 15:56:56.636 | INFO     | __main__:main:114 - I just tried a trick! It was weird.
+2025-01-17 15:56:59.638 | INFO     | __main__:main:114 - I just tried a story! It was weird.
+2025-01-17 15:57:02.639 | INFO     | __main__:main:114 - I just shared a story! It was boring.
+2025-01-17 15:57:05.641 | INFO     | __main__:main:114 - I just tried an app! It was exciting.
+2025-01-17 15:57:08.643 | INFO     | __main__:main:114 - I just loved an app! It was boring.
+2025-01-17 15:57:11.645 | INFO     | __main__:main:114 - I just saw a trick! It was exciting.
+2025-01-17 15:57:14.646 | INFO     | __main__:main:114 - I just saw a movie! It was funny.
+2025-01-17 15:57:15.012 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 15:57:15.013 | INFO     | __main__:main:68 - START...
+2025-01-17 15:57:15.013 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-17 15:57:17.647 | INFO     | __main__:main:114 - I just saw an app! It was funny.
+2025-01-17 15:57:20.649 | INFO     | __main__:main:114 - I just shared an app! It was amazing.
+2025-01-17 15:57:23.651 | INFO     | __main__:main:114 - I just found a movie! It was boring.
+2025-01-17 15:57:32.942 | INFO     | __main__:main:85 - END.....
