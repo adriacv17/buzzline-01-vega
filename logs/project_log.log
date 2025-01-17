@@ -19,3 +19,21 @@
 2025-01-17 15:57:20.649 | INFO     | __main__:main:114 - I just shared an app! It was amazing.
 2025-01-17 15:57:23.651 | INFO     | __main__:main:114 - I just found a movie! It was boring.
 2025-01-17 15:57:32.942 | INFO     | __main__:main:85 - END.....
+2025-01-17 16:00:03.489 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 16:00:03.491 | INFO     | __main__:main:107 - START producer...
+2025-01-17 16:00:03.492 | INFO     | __main__:main:108 - Hit CTRL c (or CMD c) to close.
+2025-01-17 16:00:03.492 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 16:00:03.493 | INFO     | __main__:main:115 - I just watched a book and it left me feeling amazed!
+2025-01-17 16:00:06.494 | INFO     | __main__:main:115 - I just discovered a book and it left me feeling confused!
+2025-01-17 16:00:09.496 | INFO     | __main__:main:115 - I just watched a workout and it left me feeling amazed!
+2025-01-17 16:00:12.498 | INFO     | __main__:main:115 - I just experienced a game and it left me feeling surprised!
+2025-01-17 16:00:15.499 | INFO     | __main__:main:115 - I just experienced a book and it left me feeling amazed!
+2025-01-17 16:00:18.502 | INFO     | __main__:main:115 - I just discovered a game and it left me feeling confused!
+2025-01-17 16:00:21.503 | INFO     | __main__:main:115 - I just completed a workout and it left me feeling thrilled!
+2025-01-17 16:00:24.504 | INFO     | __main__:main:115 - I just discovered a lecture and it left me feeling thrilled!
+2025-01-17 16:00:27.506 | INFO     | __main__:main:115 - I just attended a concert and it left me feeling thrilled!
+2025-01-17 16:00:30.507 | INFO     | __main__:main:115 - I just experienced a game and it left me feeling confused!
+2025-01-17 16:00:33.508 | INFO     | __main__:main:115 - I just discovered a workout and it left me feeling thrilled!
+2025-01-17 16:00:36.511 | INFO     | __main__:main:115 - I just discovered a workout and it left me feeling amazed!
+2025-01-17 16:00:39.512 | INFO     | __main__:main:115 - I just experienced a workout and it left me feeling amazed!
+2025-01-17 16:00:42.513 | INFO     | __main__:main:115 - I just completed a game and it left me feeling confused!
