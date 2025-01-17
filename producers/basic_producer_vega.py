@@ -59,9 +59,10 @@ def get_message_interval() -> int:
 #####################################
 
 # Define some lists for generating buzz messages
-ADJECTIVES: list = ["amazing", "funny", "boring", "exciting", "weird"]
-ACTIONS: list = ["found", "saw", "tried", "shared", "loved"]
-TOPICS: list = ["a movie", "a meme", "an app", "a trick", "a story"]
+FEELINGS = ["thrilled", "surprised", "amazed", "confused", "inspired"]
+ACTIVITIES = ["watched", "completed", "experienced", "attended", "discovered"]
+EVENTS = ["a concert", "a workout", "a book", "a game", "a lecture"]
+
 
 #####################################
 # Define a function to generate buzz messages
@@ -80,10 +81,10 @@ def generate_messages():
     until we close the window or hit CTRL c (CMD c on Mac/Linux).
     """
     while True:
-        adjective = random.choice(ADJECTIVES)
-        action = random.choice(ACTIONS)
-        topic = random.choice(TOPICS)
-        yield f"I just {action} {topic}! It was {adjective}."
+        feeling = random.choice(FEELINGS)
+        activity = random.choice(ACTIVITIES)
+        event = random.choice(EVENTS)
+        yield f"I just {activity} {event} and it left me feeling {feeling}!"
 
 
 #####################################
