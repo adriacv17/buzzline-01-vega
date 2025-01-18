@@ -1,6 +1,6 @@
 # P1 Initial Streaming Project
-Name: Adrian Vega
-Date: 1/17/2025
+Name: Adrian Vega <br>
+Date: 1/17/2025 <br>
 Assignment: Project 1
 
 ## Overview
